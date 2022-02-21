@@ -1,6 +1,7 @@
 # tic_tac_game
 
 A new Flutter project.
+A simple game where you can play with yourself or with a friend.
 
 ![Screenshot 2022-02-02 000025](https://user-images.githubusercontent.com/94745074/155034698-acd0418e-91bf-439b-a24b-64d5692eaf54.png)
 ![Screenshot 2022-02-02 000057](https://user-images.githubusercontent.com/94745074/155034702-f509fbe1-647c-4fd3-9bfb-efa1253ba91d.png)
